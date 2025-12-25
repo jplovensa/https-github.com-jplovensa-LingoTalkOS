@@ -1,0 +1,8 @@
+{
+  "name": " [Dummy] LingoTalk Workforce OS",
+  "description": "The intelligent Corporate Training OS. Upskill your workforce with AI-driven roleplay simulations, real-time market intelligence, and field logistics planning.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
